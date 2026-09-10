@@ -103,7 +103,7 @@ export default function Home() {
           <h1>Offline Notes Lab</h1>
           <p className="sidebar-copy">
             Build a small app that keeps working when the network disappears.
-            Project By: Adeniyi Oluwatimilehin
+            Project By: Adeniyi Oluwatimilehin Goodluck
             Matric Number: 2024/1/95322CP
             Department: Computer Engineering 
           </p>
